@@ -1,0 +1,9 @@
+
+!|Import          |
+|no.stig.something|
+
+Going to test my calculator
+
+|Calculator Fixture|
+|start             |
+|add    |1    |2   |
